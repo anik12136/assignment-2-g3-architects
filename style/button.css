@@ -1,0 +1,32 @@
+.btn-primary{
+    height: 64px;
+    width: 160px;
+    border: 0;
+    border-radius: 8px;
+    background: #FF900E;
+    color: #FFFFFF;
+    font-weight: 600;
+    font-size: 16px;
+    
+}
+.btn-10year{
+    margin-top: 690px;
+    margin-left: -732px;
+    width: 250px;
+    height: 150px;
+    border: 0;
+    border-radius: 8px;
+    background: #FF900E;
+    color: #FFFFFF;
+    /* padding: 18px 35px; */
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.7);
+    
+    
+}
+.btn-10year .years{
+    font-weight: 600;
+    font-size: 50px;
+}
+.btn-10year .Experience{
+    font-size: 16px;
+}

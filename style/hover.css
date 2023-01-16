@@ -1,0 +1,9 @@
+.icon:hover{
+    background-color:black;
+    color: aliceblue;
+    width: 150px;
+    height: 150px;
+    border-radius: 120px;
+    box-shadow: 0px 4px 30px rgba(0, 0, 0, 0.7);
+    border: 0;
+}
